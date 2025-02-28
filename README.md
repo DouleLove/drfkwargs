@@ -8,7 +8,7 @@ Django REST framework keywords names for extra_keyword meta attribute of seriali
 > [!NOTE]
 > It's recommended to activate
 > <a href="https://docs.python.org/3/library/venv.html">Virtual Environment</a>
-> before installing gnvext
+> before installing drfkwargs
 
 To clone and install required packages use the following command:
 ```bash
